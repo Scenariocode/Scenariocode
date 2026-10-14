@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Event Hub — Gather, Learn, Repeat</title>
+</head>
+<body>
+
+  <header>
+    <h1>Event Hub</h1>
+    <nav>
+      <ul>
+        <li><a href="#upcoming-events">Upcoming Events</a></li>
+        <li><a href="#past-events">Past Events</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+
+    <section id="upcoming-events">
+      <h2>Upcoming Events</h2>
+
+      <article>
+        <h3>Midnight Pancake Debugging</h3>
+        <p>
+          Bring a laptop and an appetite. We pair up on stubborn bugs until
+          they crack, then reward ourselves with an unreasonable amount of
+          pancakes. Beginners are genuinely welcome — no question is too small.
+        </p>
+        <p>Date: Friday, 13 March · 9:00 PM · The Waffle Annex</p>
+      </article>
+
+      <article>
+        <h3>Analog Photography Walk</h3>
+        <p>
+          A slow morning wandering the old warehouse district with film
+          cameras and zero rush. We'll talk light meters, happy accidents,
+          and why grain is having a moment again. Loaner cameras available.
+        </p>
+        <p>Date: Saturday, 4 April · 8:30 AM · Riverside Gate</p>
+      </article>
+
+    </section>
+
+    <section id="past-events">
+      <h2>Past Events</h2>
+
+      <article>
+        <h3>Retro Arcade Tournament</h3>
+        <p>
+          Sixty-four players, one creaky cabinet, and a final match that
+          lasted longer than the pizza queue. We raised enough for two new
+          community laptops and crowned a champion who had never played before.
+        </p>
+        <p>Date: 18 October · The Basement Arcade</p>
+        <img
+          src="https://cdn.freecodecamp.org/curriculum/labs/past-event1.jpg"
+          alt="Players gathered around laptops and screens during a community coding session"
+        >
+      </article>
+
+      <article>
+        <h3>Storytelling Under the Stars</h3>
+        <p>
+          Five speakers, one open field, and a projector powered by a very
+          brave extension cord. Topics ranged from migrating birds to
+          migrating databases. Blankets were essential.
+        </p>
+        <p>Date: 2 August · Hilltop Meadow</p>
+        <img
+          src="https://cdn.freecodecamp.org/curriculum/labs/past-event2.jpg"
+          alt="A speaker on stage addressing a seated audience at an evening event"
+        >
+      </article>
+
+    </section>
+
+  </main>
+
+</body>
+</html>
